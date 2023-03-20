@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.pdb
