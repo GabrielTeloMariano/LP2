@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Fatec\2o_sem\linguagem_de_programacao_2\PVolume\PVolume\obj\Debug\PVolume.pdb
